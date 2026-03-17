@@ -1,0 +1,180 @@
+Question: How can I check my telecom bill?
+Answer: You can check your bill via the telecom provider's app or by dialing *123#.
+Category: Billing
+Source: FAQ
+---
+Question: How do I activate international roaming?
+Answer: You can activate international roaming through the website or by sending an SMS 'ROAM ON' to 56789.
+Category: Service
+Source: Support
+---
+Question: What are the latest data plans available?
+Answer: Please visit our website or app for the latest data plans and offers.
+Category: Plans
+Source: FAQ
+---
+Question: How can I improve my network signal?
+Answer: Try restarting your phone, toggling airplane mode, or moving to an open area.
+Category: Network
+Source: Knowledge
+---
+Question: How do I contact customer support?
+Answer: You can call 1800-XXX-XXXX or use the live chat feature in our app.
+Category: Support
+Source: FAQ
+---
+Question: Why is my internet speed slow?
+Answer: Your internet speed may be affected by network congestion or data usage limits.
+Category: Network
+Source: Knowledge
+---
+Question: How do I change my telecom plan?
+Answer: You can change your plan by logging into your account on the telecom provider's website or app.
+Category: Plans
+Source: FAQ
+---
+Question: What should I do if my SIM card is not working?
+Answer: Try reinserting the SIM card, restarting your phone, or contacting support for a replacement.
+Category: Support
+Source: FAQ
+---
+Question: How do I enable 5G on my device?
+Answer: Ensure your phone supports 5G and activate it in your network settings.
+Category: Network
+Source: Knowledge
+---
+Question: Can I transfer my number to another provider?
+Answer: Yes, you can request a port-out code (UPC) by sending an SMS ‘PORT <your number>’ to 1900.
+Category: Service
+Source: FAQ
+---
+Question: What should I do if my phone is lost?
+Answer: Contact customer support to block your SIM and prevent unauthorized use.
+Category: Security
+Source: Support
+---
+Question: How do I check my remaining data balance?
+Answer: Dial *121# or check via the telecom provider’s mobile app.
+Category: Billing
+Source: FAQ
+---
+Question: How do I set up auto-pay for my telecom bill?
+Answer: You can enable auto-pay through your telecom provider's website or banking app.
+Category: Billing
+Source: FAQ
+---
+Question: What is the customer care number?
+Answer: Our customer care number is 1800-XXX-XXXX, available 24/7.
+Category: Support
+Source: FAQ
+---
+Question: How do I block spam calls and messages?
+Answer: Activate DND (Do Not Disturb) via SMS ‘START 0’ to 1909.
+Category: Security
+Source: FAQ
+---
+Question: How can I share mobile data with another device?
+Answer: Enable a mobile hotspot in your device’s settings.
+Category: Network
+Source: Knowledge
+---
+Question: What is the validity of my prepaid plan?
+Answer: You can check plan validity through the telecom app or by dialing *123#.
+Category: Plans
+Source: FAQ
+---
+Question: How do I extend my prepaid plan validity?
+Answer: Recharge with a validity extension plan via the app or website.
+Category: Plans
+Source: FAQ
+---
+Question: Why am I being charged extra on my bill?
+Answer: Extra charges may include international calls, premium services, or late payment fees.
+Category: Billing
+Source: Support
+---
+Question: How do I reset my voicemail password?
+Answer: Dial your voicemail service number and follow the prompts to reset your password.
+Category: Service
+Source: Support
+---
+Question: How do I disable international calls on my number?
+Answer: Contact customer support to enable call barring for international calls.
+Category: Security
+Source: Support
+---
+Question: Can I get a refund for a wrong recharge?
+Answer: Refunds depend on telecom policies; contact support for assistance.
+Category: Billing
+Source: Support
+---
+Question: How do I check if 5G is available in my area?
+Answer: Visit our website or check the 5G coverage map in the mobile app.
+Category: Network
+Source: Knowledge
+---
+Question: How do I recover my deactivated SIM?
+Answer: Visit the nearest telecom store with a valid ID to reactivate your SIM.
+Category: Service
+Source: Support
+---
+Question: How do I set a caller tune?
+Answer: Activate caller tunes via the telecom provider's app or by sending an SMS ‘CT <code>’ to 56789.
+Category: Service
+Source: FAQ
+---
+Question: How do I change my registered email ID?
+Answer: Log in to your account on the website or app and update your email in profile settings.
+Category: Account
+Source: Support
+---
+Question: How do I get a detailed call history?
+Answer: You can download call records from your online account or request details via customer support.
+Category: Billing
+Source: Support
+---
+Question: How do I deactivate my telecom number?
+Answer: Contact customer support and submit a request for deactivation.
+Category: Service
+Source: Support
+---
+Question: What should I do if my number is porting delayed?
+Answer: Porting usually takes 3-7 days. Contact customer support for updates.
+Category: Service
+Source: Support
+---
+Question: How do I report network issues?
+Answer: Use the 'Report an Issue' option in the telecom app or call support.
+Category: Network
+Source: Support
+---
+Question: How do I switch from prepaid to postpaid?
+Answer: Visit a telecom store or apply via the mobile app to switch plans.
+Category: Plans
+Source: FAQ
+---
+Question: What documents are required for a new SIM card?
+Answer: You need a valid ID (Aadhar, Passport, or Driver’s License) for verification.
+Category: Service
+Source: Support
+---
+Question: How do I activate VoLTE on my phone?
+Answer: Ensure VoLTE is enabled in network settings and that your SIM supports it.
+Category: Network
+Source: Knowledge
+---
+Question: How do I check if my number is active?
+Answer: Try calling from another number or checking in the mobile app.
+Category: Service
+Source: Knowledge
+---
+Question: How do I enable two-factor authentication for my account?
+Answer: Enable it in your telecom account settings under security options.
+Category: Security
+Source: Support
+---
+Question: How do I claim a refund for network downtime?
+Answer: Contact customer support and provide details of the issue to request compensation.
+Category: Billing
+Source: Support
+---
